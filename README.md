@@ -10,6 +10,6 @@ Esta aplicación cubre los siguientes temas:
 * Realizar queries de base de datos.
 * Manejo de errores.
 
-### MySQL - Paquete de Node
+> [MySQL-Paquete de Node](https://github.com/mysqljs/mysql)
     
-    https://github.com/mysqljs/mysql
+    
